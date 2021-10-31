@@ -1,0 +1,42 @@
+h3 {
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 30;
+}
+
+body {
+    background-image: url("BLACK.jpg")
+}
+
+h10 {
+    color: yellow;
+    font-size: 25px;
+    font-family: algerian;
+}
+
+h11 {
+    color: yellow;
+    font-size: 25px;
+    font-family: algerian;
+}
+
+h12 {
+    color:yellow;
+    font-size: 25px;
+    font-family: algerian;
+}
+
+#button1 {
+    font-family: 'Yeon Sung';
+    font-size: 22px;
+    font-weight: bold; 
+    color: white; 
+    background-color: red; 
+    width: 1000px; 
+    margin-top: 20px; 
+}
+
+#button1:hover {
+    background-color: yellow;
+    color: black;
+}
